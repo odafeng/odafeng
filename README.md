@@ -1,16 +1,17 @@
 # Shih-Feng Huang 黃士峯
 
-Colorectal surgeon at Kaohsiung Veterans General Hospital, Taiwan. I work on robotic and laparoscopic surgery for colorectal cancer and build computational tools to support surgical research.
+Colorectal surgeon at Kaohsiung Veterans General Hospital, Taiwan. I work on robotic and laparoscopic surgery for colorectal cancer, and am building an integrated digital surgery platform spanning preoperative risk prediction, intraoperative video intelligence, and postoperative patient-reported outcome monitoring.
 
-高雄榮民總醫院大腸直腸外科主治醫師。臨床上以機器人及腹腔鏡微創手術為主，研究方向是將資料科學方法應用於手術技術評估與術前影像分析。
+高雄榮民總醫院大腸直腸外科主治醫師。臨床上以機器人及腹腔鏡微創手術為主，正在建構一個整合術前風險預測、術中影像智慧分析、與術後病人回報結果監測的數位手術平台。
 
 ---
 
 ### What I work on / 研究方向
 
-- **Robotic surgical technique** — performing the RiSSA (Robotic Intracorporeal Single-Stapled Anastomosis) technique; published learning curve analysis using RA-CUSUM and ML-based risk modeling
-- **CT-based surgical planning** — automated pelvimetry and body composition analysis from preoperative CT using TotalSegmentator; published as [`ctpelvimetry`](https://pypi.org/project/ctpelvimetry/) on PyPI
-- **Surgical outcomes research** — stage III colorectal cancer prognosis, adjuvant chemotherapy comparison, NMF-based surgical difficulty decomposition
+- **Preoperative** — multimodal surgical difficulty prediction combining CT pelvimetry, body composition, and clinical variables; published as [`ctpelvimetry`](https://pypi.org/project/ctpelvimetry/) on PyPI
+- **Intraoperative** — surgical video analytics and AI-supported decision making for robotic colorectal surgery; workflow analysis, video-derived outcome prediction
+- **Postoperative** — digital symptom monitoring and AI-assisted patient education for postoperative care ([Hemorrhoids_PostOp](https://github.com/odafeng/Hemorrhoids_PostOp))
+- **Surgical technique & outcomes** — RiSSA technique with RA-CUSUM learning curve analysis; stage III colorectal cancer prognosis; NMF-based surgical difficulty decomposition
 
 ### Selected publications
 
