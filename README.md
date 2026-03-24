@@ -15,7 +15,7 @@
 
 Colorectal surgeon at **Kaohsiung Veterans General Hospital**, Taiwan. I operate with da Vinci Xi and build the software that makes surgery smarter. 12+ peer-reviewed publications as first or corresponding author.
 
-> 高雄榮總大腸直腸外科主治醫師。手術刀與鍵盤並用，正在建構一條從 CT 影像到術後追蹤的數位手術 pipeline。
+> 高雄榮總大腸直腸外科主治醫師。白天開刀，晚上寫 code，正在建構一條從 CT 影像到術後追蹤的數位手術 pipeline。
 
 ---
 
