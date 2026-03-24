@@ -16,7 +16,7 @@ Building a data pipeline across:
 
 Colorectal surgeon focused on robotic and laparoscopic surgery, with ongoing work in surgical data science. Interested in building reproducible workflows for clinical data, imaging, and outcomes.
 
-> 高雄榮總大腸直腸外科主治醫師。白天開刀，晚上寫 code，正在建構一條從 CT 影像到術後追蹤的數位手術 pipeline。
+> 高雄榮總大腸直腸外科主治醫師。專注於微創手術與臨床資料科學，正在建構一條從 CT 影像到術後追蹤的數位手術 pipeline。
 
 ---
 
