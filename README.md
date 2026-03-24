@@ -1,6 +1,8 @@
+# Shih-Feng Huang 黃士峯
+
 ## Surgical Data Science in Colorectal Surgery
 
-Working on a data pipeline that connects:  
+Building a data pipeline across:  
 **Preoperative assessment → Intraoperative workflow → Postoperative outcomes**
 
 <p>
@@ -18,7 +20,7 @@ Colorectal surgeon focused on robotic and laparoscopic surgery, with ongoing wor
 
 ---
 
-### Digital Surgery Pipeline
+### Digital Surgery Pipeline (Core Focus)
 
 🧠 **Preoperative**
 - CT-based pelvimetry
@@ -36,17 +38,19 @@ Colorectal surgeon focused on robotic and laparoscopic surgery, with ongoing wor
 
 ### Featured Work
 
-🚀 [`ctpelvimetry`](https://github.com/odafeng/ctpelvimetry) — Automated CT-based pelvimetry pipeline, [published on PyPI](https://pypi.org/project/ctpelvimetry/)
+🚀 [`ctpelvimetry`](https://github.com/odafeng/ctpelvimetry) — Automated CT-based pelvimetry pipeline → published on [PyPI](https://pypi.org/project/ctpelvimetry/), validated in IJCARS-accepted study
 
-📈 [`RiSSA_ML_Learning_Curve`](https://github.com/odafeng/RiSSA_ML_Learning_Curve) — Machine learning–based safety-focused learning curve analysis
+📈 [`RiSSA_ML_Learning_Curve`](https://github.com/odafeng/RiSSA_ML_Learning_Curve) — ML-based safety-focused learning curve analysis → published in J Robotic Surgery
 
-📊 [`Stage_III_Colon_EDR`](https://github.com/odafeng/Stage_III_Colon_EDR) — Early distant recurrence prediction model with external validation
+📊 [`Stage_III_Colon_EDR`](https://github.com/odafeng/Stage_III_Colon_EDR) — Early distant recurrence prediction → externally validated across two centers
 
-📱 [`Hemorrhoids_PostOp`](https://github.com/odafeng/Hemorrhoids_PostOp) — Patient follow-up web application
+📱 [`Hemorrhoids_PostOp`](https://github.com/odafeng/Hemorrhoids_PostOp) — Patient follow-up web app → deployed for IRB-approved clinical study
 
 ---
 
 ### Selected Publications
+
+Focus: robotic colorectal surgery, learning curves, and outcome modeling.
 
 - Machine learning–based learning curve analysis — *J Robotic Surg.* 2026
 - Video-based RA-CUSUM proficiency assessment — *Int J Colorectal Dis.* 2026
@@ -66,5 +70,5 @@ Full list → [ORCID](https://orcid.org/0000-0002-8037-4074)
 ---
 
 <p align="center">
-  <code>Colon & Code</code> — bridging surgical practice and reproducible data systems.
+  <code>Colon & Code</code> — clinical problems → structured data → reproducible analysis.
 </p>
