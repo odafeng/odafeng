@@ -66,15 +66,6 @@ I work on robotic and laparoscopic surgery for colorectal cancer, and am buildin
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odafeng&show_icons=true&theme=default&hide_border=true&count_private=true&hide=contribs&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odafeng&layout=compact&theme=default&hide_border=true&hide_title=true&langs_count=6" height="150" />
-</p>
-
----
-
 <p align="center">
   <i>「Colon & Code — bridging the gap between the operating room and the algorithm.」</i>
 </p>
