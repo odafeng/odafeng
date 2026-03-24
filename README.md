@@ -35,14 +35,14 @@ I work on robotic and laparoscopic surgery for colorectal cancer, and am buildin
 
 1. **Huang SF**, Tan YL, Hsu CW, et al. Machine learning–based risk modeling for safety-focused learning curve assessment in robotic left-sided colorectal cancer surgery. *J Robotic Surg.* 2026;20:190.
 2. **Huang SF**, Tan YL, Hsu CW, et al. Technical proficiency assessment of robotic intracorporeal single-stapling colorectal anastomosis using video-based RA-CUSUM. *Int J Colorectal Dis.* 2026;41:44.
-3. Wu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, **Huang SF**. The robotic intracorporeal single-stapled anastomosis (RiSSA) technique in robotic left-sided colorectal resection: a technical note. *Ann Coloproctol.* 2025;41(4):357-360.
-4. **Huang SF**, Wu CC. Robotic intracorporeal single-stapled anastomosis (RiSSA) and natural orifice specimen extraction (NOSE) in total mesorectal excision for rectal cancer. *Colorectal Dis.* 2024;26(12):2128-9.
-5. **Huang SF**, Chu PT, Wang JH. A feasible technique for laparoscopic sigmoidectomy with natural orifice specimen extraction (NOSE). *Tech Coloproctol.* 2022;26(2):151-2.
+3. Wu CC, Tan YL, Hsu CW, et al. Robotic intracorporeal single-stapling versus double-stapling anastomosis in left-sided colorectal cancer: a propensity score-weighted pilot study. *J Robotic Surg.* 2025;19:430. (**Huang SF**, corresponding author)
+4. Wu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, **Huang SF**. The robotic intracorporeal single-stapled anastomosis (RiSSA) technique in robotic left-sided colorectal resection: a technical note. *Ann Coloproctol.* 2025;41(4):357-360.
+5. **Huang SF**, Wu CC. Robotic intracorporeal single-stapled anastomosis (RiSSA) and natural orifice specimen extraction (NOSE) in total mesorectal excision for rectal cancer. *Colorectal Dis.* 2024;26(12):2128-9.
+6. **Huang SF**, Chu PT, Wang JH. A feasible technique for laparoscopic sigmoidectomy with natural orifice specimen extraction (NOSE). *Tech Coloproctol.* 2022;26(2):151-2.
 
 <details>
 <summary>📎 More publications →</summary>
 
-6. Wu CC, Tan YL, Hsu CW, et al. Robotic intracorporeal single-stapling versus double-stapling anastomosis in left-sided colorectal cancer: a propensity score-weighted pilot study. *J Robotic Surg.* 2025;19:430.
 7. Lin CL, Chiang SW, **Huang SF**, Hung CY, Chiang FF. Redo robotic low anterior resection by natural orifice intracorporeal anastomosis with extraction. *Dis Colon Rectum.* 2025.
 
 </details>
