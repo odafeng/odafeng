@@ -1,5 +1,10 @@
 # Shih-Feng Huang 黃士峯
 
+<p align="center">
+  <strong>Colon & Code</strong><br/>
+  <em>clinical problems → structured data → deployable systems</em>
+</p>
+
 ## Surgical Data Scientist | Colorectal Surgeon  
 Building real-world AI systems for surgical workflows
 
@@ -8,6 +13,8 @@ Building real-world AI systems for surgical workflows
   <a href="https://shihfenghuang.com"><img src="https://img.shields.io/badge/Website-shihfenghuang.com-2E86AB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://colonandcode.com"><img src="https://img.shields.io/badge/Blog-Colon+%26+Code-FF6B6B?style=flat-square&logo=hugo&logoColor=white" /></a>
   <a href="https://pypi.org/project/ctpelvimetry/"><img src="https://img.shields.io/pypi/v/ctpelvimetry?style=flat-square&logo=pypi&logoColor=white&label=ctpelvimetry&color=3776AB" /></a>
+  <a href="https://pypi.org/project/ctpelvimetry/"><img src="https://img.shields.io/pypi/dm/ctpelvimetry?style=flat-square&logo=pypi&logoColor=white&label=downloads&color=3776AB" /></a>
+  <a href="https://github.com/odafeng"><img src="https://img.shields.io/github/followers/odafeng?style=social" /></a>
 </p>
 
 ---
@@ -76,8 +83,8 @@ CT Imaging → Feature Extraction → Difficulty Modeling ↓ Intraoperative Vid
 Focus: surgical AI, learning curves, and outcome modeling
 
 - Machine learning–based learning curve analysis — *J Robotic Surg.* 2026  
-- Video-based RA-CUSUM proficiency assessment — *Int J Colorectal Dis.* 2026  
-- Robotic single-stapling vs double-stapling anastomosis — *J Robotic Surg.* 2025  
+- Video-based RA-CUSUM proficiency assessment — *Int J Colorectal Dis.* 2026 [`doi`](https://doi.org/10.1007/s00384-025-05078-3)  
+- Robotic single-stapling vs double-stapling anastomosis — *J Robotic Surg.* 2025 [`doi`](https://doi.org/10.1007/s11701-025-02609-6)  
 
 Full list → [ORCID](https://orcid.org/0000-0002-8037-4074)
 
@@ -99,10 +106,4 @@ Building the infrastructure of **Surgical Data Science**:
 - From clinical intuition → quantitative modeling  
 - From retrospective data → real-time systems  
 - From isolated studies → reproducible pipelines  
-
----
-
-<p align="center">
-  <strong>Colon & Code</strong><br/>
-  clinical problems → structured data → deployable systems
-</p>
+- **Next:** surgical video analytics — automated phase recognition, workflow decomposition, and AI-assisted intraoperative feedback
