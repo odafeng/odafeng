@@ -82,7 +82,7 @@ CT Imaging → Feature Extraction → Difficulty Modeling ↓ Intraoperative Vid
 
 Focus: surgical AI, learning curves, and outcome modeling
 
-- Machine learning–based learning curve analysis — *J Robotic Surg.* 2026  
+- Machine learning–based learning curve analysis — *J Robotic Surg.* 2026 [`doi`](https://doi.org/10.1007/s11701-025-03088-5)  
 - Video-based RA-CUSUM proficiency assessment — *Int J Colorectal Dis.* 2026 [`doi`](https://doi.org/10.1007/s00384-025-05078-3)  
 - Robotic single-stapling vs double-stapling anastomosis — *J Robotic Surg.* 2025 [`doi`](https://doi.org/10.1007/s11701-025-02609-6)  
 
