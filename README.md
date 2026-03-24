@@ -1,9 +1,7 @@
 # Shih-Feng Huang 黃士峯
 
-## Surgical Data Science in Colorectal Surgery
-
-Building a data pipeline across:  
-**Preoperative assessment → Intraoperative workflow → Postoperative outcomes**
+## Surgical Data Scientist | Colorectal Surgeon  
+Building real-world AI systems for surgical workflows
 
 <p>
   <a href="https://orcid.org/0000-0002-8037-4074"><img src="https://img.shields.io/badge/ORCID-0000--0002--8037--4074-a6ce39?style=flat-square&logo=orcid&logoColor=white" /></a>
@@ -14,61 +12,97 @@ Building a data pipeline across:
 
 ---
 
-Colorectal surgeon focused on robotic and laparoscopic surgery, with ongoing work in surgical data science. Interested in building reproducible workflows for clinical data, imaging, and outcomes.
+I build an end-to-end surgical data pipeline that connects:
 
-> 高雄榮總大腸直腸外科主治醫師。專注於微創手術與臨床資料科學，正在建構一條從 CT 影像到術後追蹤的數位手術 pipeline。
+**CT imaging → intraoperative workflow → postoperative outcomes**
+
+From raw clinical data to reproducible analysis and deployable systems.
+
+> 高雄榮總大腸直腸外科主治醫師  
+> 專注於將臨床問題轉化為可計算、可重現、可部署的資料科學系統
 
 ---
 
-### Digital Surgery Pipeline (Core Focus)
+## ⚙️ Surgical Data Pipeline (Core System)
+CT Imaging → Feature Extraction → Difficulty Modeling ↓ Intraoperative Video / Workflow Analysis ↓ Postoperative Outcomes / PRO / Prediction Models
 
-🧠 **Preoperative**
-- CT-based pelvimetry
+### 🧠 Preoperative
+- Automated CT-based pelvimetry
 - Surgical difficulty modeling (FREDRIC framework)
 
-🎥 **Intraoperative**
-- Learning curve analysis (RA-CUSUM)
-- Workflow and video-based analytics
+### 🎥 Intraoperative
+- Learning curve modeling (RA-CUSUM)
+- Video-based workflow analysis
 
-📊 **Postoperative**
-- Outcome modeling
-- Digital follow-up and PRO systems
-
----
-
-### Featured Work
-
-🚀 [`ctpelvimetry`](https://github.com/odafeng/ctpelvimetry) — Automated CT-based pelvimetry pipeline → published on [PyPI](https://pypi.org/project/ctpelvimetry/), validated in IJCARS-accepted study
-
-📈 [`RiSSA_ML_Learning_Curve`](https://github.com/odafeng/RiSSA_ML_Learning_Curve) — ML-based safety-focused learning curve analysis → published in J Robotic Surgery
-
-📊 [`Stage_III_Colon_EDR`](https://github.com/odafeng/Stage_III_Colon_EDR) — Early distant recurrence prediction → externally validated across two centers
-
-📱 [`Hemorrhoids_PostOp`](https://github.com/odafeng/Hemorrhoids_PostOp) — Patient follow-up web app → deployed for IRB-approved clinical study
+### 📊 Postoperative
+- Outcome prediction (ML / survival analysis)
+- Digital follow-up & PRO systems
 
 ---
 
-### Selected Publications
+## 🚀 Featured Systems
 
-Focus: robotic colorectal surgery, learning curves, and outcome modeling.
+### 🔬 CT Pelvimetry Pipeline  
+[`ctpelvimetry`](https://github.com/odafeng/ctpelvimetry)  
+→ Fully automated CT-based pelvimetry  
+→ Published & validated (IJCARS)  
+→ Packaged and distributed via PyPI  
 
-- Machine learning–based learning curve analysis — *J Robotic Surg.* 2026
-- Video-based RA-CUSUM proficiency assessment — *Int J Colorectal Dis.* 2026
-- Robotic single-stapling vs double-stapling anastomosis — *J Robotic Surg.* 2025
+---
+
+### 📈 Learning Curve Intelligence  
+[`RiSSA_ML_Learning_Curve`](https://github.com/odafeng/RiSSA_ML_Learning_Curve)  
+→ ML-based surgical safety profiling  
+→ Published in *Journal of Robotic Surgery*  
+
+---
+
+### 📊 Clinical Outcome Modeling  
+[`Stage_III_Colon_EDR`](https://github.com/odafeng/Stage_III_Colon_EDR)  
+→ Early recurrence prediction  
+→ Multi-center validation  
+
+---
+
+### 📱 Surgical Follow-up Platform  
+[`Hemorrhoids_PostOp`](https://github.com/odafeng/Hemorrhoids_PostOp)  
+→ Digital postoperative monitoring system  
+→ Deployed in IRB-approved clinical study  
+
+---
+
+## 📚 Selected Publications
+
+Focus: surgical AI, learning curves, and outcome modeling
+
+- Machine learning–based learning curve analysis — *J Robotic Surg.* 2026  
+- Video-based RA-CUSUM proficiency assessment — *Int J Colorectal Dis.* 2026  
+- Robotic single-stapling vs double-stapling anastomosis — *J Robotic Surg.* 2025  
 
 Full list → [ORCID](https://orcid.org/0000-0002-8037-4074)
 
 ---
 
-### Tools & Methods
+## 🧰 Methods & Stack
 
-- Python (pandas, scikit-learn, lifelines, PyTorch)
-- Medical imaging (CT processing, TotalSegmentator, 3D Slicer)
-- Causal inference and survival analysis (R, overlap weighting, RMST)
-- Web development (TypeScript, Next.js, PostgreSQL)
+- **Data Science**: pandas, scikit-learn, lifelines, PyTorch  
+- **Imaging**: CT processing, TotalSegmentator, 3D Slicer  
+- **Causal Inference**: overlap weighting, RMST, survival modeling  
+- **Systems**: Next.js, TypeScript, PostgreSQL  
+
+---
+
+## 🧭 Direction
+
+Building the infrastructure of **Surgical Data Science**:
+
+- From clinical intuition → quantitative modeling  
+- From retrospective data → real-time systems  
+- From isolated studies → reproducible pipelines  
 
 ---
 
 <p align="center">
-  <code>Colon & Code</code> — clinical problems → structured data → reproducible analysis.
+  <strong>Colon & Code</strong><br/>
+  clinical problems → structured data → deployable systems
 </p>
