@@ -14,7 +14,6 @@ Building real-world AI systems for surgical workflows
   <a href="https://colonandcode.com"><img src="https://img.shields.io/badge/Blog-Colon+%26+Code-FF6B6B?style=flat-square&logo=hugo&logoColor=white" /></a>
   <a href="https://pypi.org/project/ctpelvimetry/"><img src="https://img.shields.io/pypi/v/ctpelvimetry?style=flat-square&logo=pypi&logoColor=white&label=ctpelvimetry&color=3776AB" /></a>
   <a href="https://pypi.org/project/ctpelvimetry/"><img src="https://img.shields.io/pypi/dm/ctpelvimetry?style=flat-square&logo=pypi&logoColor=white&label=downloads&color=3776AB" /></a>
-  <a href="https://github.com/odafeng"><img src="https://img.shields.io/github/followers/odafeng?style=social" /></a>
 </p>
 
 ---
