@@ -1,7 +1,6 @@
 # Shih-Feng Huang 黃士峯
 
 <p align="center">
-  <strong>Colon & Code</strong><br/>
   <em>clinical problems → structured data → deployable systems</em>
 </p>
 
@@ -11,7 +10,7 @@ Building real-world AI systems for surgical workflows
 <p>
   <a href="https://orcid.org/0000-0002-8037-4074"><img src="https://img.shields.io/badge/ORCID-0000--0002--8037--4074-a6ce39?style=flat-square&logo=orcid&logoColor=white" /></a>
   <a href="https://shihfenghuang.com"><img src="https://img.shields.io/badge/Website-shihfenghuang.com-2E86AB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://blog.shihfenghuang.com"><img src="https://img.shields.io/badge/Blog-Colon+%26+Code-FF6B6B?style=flat-square&logo=hugo&logoColor=white" /></a>
+  <a href="https://blog.shihfenghuang.com"><img src="https://img.shields.io/badge/Blog-blog.shihfenghuang.com-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
   <a href="https://pypi.org/project/ctpelvimetry/"><img src="https://img.shields.io/pypi/v/ctpelvimetry?style=flat-square&logo=pypi&logoColor=white&label=ctpelvimetry&color=3776AB" /></a>
   <a href="https://pypi.org/project/ctpelvimetry/"><img src="https://img.shields.io/pypi/dm/ctpelvimetry?style=flat-square&logo=pypi&logoColor=white&label=downloads&color=3776AB" /></a>
 </p>
@@ -105,4 +104,4 @@ Building the infrastructure of **Surgical Data Science**:
 - From clinical intuition → quantitative modeling  
 - From retrospective data → real-time systems  
 - From isolated studies → reproducible pipelines  
-- **Next:** surgical video analytics — automated phase recognition, workflow decomposition, and AI-assisted intraoperative feedback
+- **Now building:** surgical video analytics — automated phase recognition & workflow decomposition ([`cholec80-phase-recognition`](https://github.com/odafeng/cholec80-phase-recognition): MS-TCN vs causal TeCNO)
