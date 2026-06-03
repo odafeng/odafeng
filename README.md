@@ -60,7 +60,7 @@ I build end-to-end surgical data systems — turning raw CT, intraoperative vide
 ---
 
 ### 📈 Learning Curve Intelligence
-[`RiSSA_ML_Learning_Curve`](https://github.com/odafeng/RiSSA_ML_Learning_Curve) — 📄 paper + code
+[`rissa-ML-learning-curve`](https://github.com/odafeng/rissa-ML-learning-curve) — 📄 paper + code
 → ML-based surgical safety profiling
 → Published in *Journal of Robotic Surgery*
 
@@ -74,7 +74,7 @@ I build end-to-end surgical data systems — turning raw CT, intraoperative vide
 ---
 
 ### 📱 Surgical Follow-up Platform
-[`Hemorrhoids_PostOp`](https://github.com/odafeng/Hemorrhoids_PostOp) — 🔒 IRB study · deployed
+[`hemorrhoids-postop`](https://github.com/odafeng/hemorrhoids-postop) — 🔒 IRB study · deployed
 → Digital postoperative monitoring system
 → Deployed in IRB-approved clinical study
 
