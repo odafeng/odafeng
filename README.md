@@ -10,7 +10,6 @@
   <a href="https://shihfenghuang.com"><img src="https://img.shields.io/badge/Website-shihfenghuang.com-2E86AB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://blog.shihfenghuang.com"><img src="https://img.shields.io/badge/Blog-blog.shihfenghuang.com-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
   <a href="https://pypi.org/project/ctpelvimetry/"><img src="https://img.shields.io/pypi/v/ctpelvimetry?style=flat-square&logo=pypi&logoColor=white&label=ctpelvimetry&color=3776AB" /></a>
-  <a href="https://pypi.org/project/ctpelvimetry/"><img src="https://img.shields.io/pypi/dm/ctpelvimetry?style=flat-square&logo=pypi&logoColor=white&label=downloads&color=3776AB" /></a>
 </p>
 
 ---
