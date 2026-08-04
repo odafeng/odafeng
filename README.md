@@ -26,7 +26,7 @@ I build evidence-backed surgical data systems — turning raw CT, intraoperative
 
 | Clinical problem | Peer-reviewed evidence | Reproducible code | Deployed artifact |
 | --- | --- | --- | --- |
-| Mid-pelvic workspace from CT | [Auto-ISD · *IJCARS* 2026](https://doi.org/10.1007/s11548-026-03606-2) | [`auto-isd-pelvimetry`](https://github.com/odafeng/auto-isd-pelvimetry) | [Interactive demo](https://auto-isd-demo.vercel.app) · [`ctpelvimetry`](https://pypi.org/project/ctpelvimetry/) |
+| Mid-pelvic workspace from CT | [Auto-ISD · *IJCARS* 2026](https://doi.org/10.1007/s11548-026-03606-2)<br>[Scalable annotation-free CT pelvimetry · *JIIM* 2026](https://doi.org/10.1007/s10278-026-02167-9) | [`auto-isd-pelvimetry`](https://github.com/odafeng/auto-isd-pelvimetry) | [Interactive demo](https://auto-isd-demo.vercel.app) · [`ctpelvimetry`](https://pypi.org/project/ctpelvimetry/) |
 | Robotic surgery learning curves | [*J Robotic Surg.* 2026](https://doi.org/10.1007/s11701-025-03088-5) | [`rissa-ML-learning-curve`](https://github.com/odafeng/rissa-ML-learning-curve) | Reusable analysis workflow |
 | Postoperative symptom monitoring | IRB-approved study | [`hemorrhoids-postop`](https://github.com/odafeng/hemorrhoids-postop) | [Live clinical-research PWA](https://prototype-zeta-black.vercel.app) |
 
@@ -36,7 +36,7 @@ I build evidence-backed surgical data systems — turning raw CT, intraoperative
 
 ### 🔬 Medical Imaging: Publication → Reusable Software
 
-- [`auto-isd-pelvimetry`](https://github.com/odafeng/auto-isd-pelvimetry) — peer-reviewed [IJCARS paper](https://doi.org/10.1007/s11548-026-03606-2), open-source pipeline, and [interactive demo](https://auto-isd-demo.vercel.app)
+- [`auto-isd-pelvimetry`](https://github.com/odafeng/auto-isd-pelvimetry) — two peer-reviewed validation studies ([*IJCARS*](https://doi.org/10.1007/s11548-026-03606-2) · [*JIIM*](https://doi.org/10.1007/s10278-026-02167-9)), an open-source pipeline, and an [interactive demo](https://auto-isd-demo.vercel.app)
 - [`ctpelvimetry`](https://github.com/odafeng/ctpelvimetry) — installable [PyPI package](https://pypi.org/project/ctpelvimetry/) with a Python API, CLI, automated QC, and tests
 
 ### 🎥 Surgical Intelligence
@@ -60,6 +60,7 @@ I build evidence-backed surgical data systems — turning raw CT, intraoperative
 
 Focus: surgical AI, learning curves, and outcome modeling
 
+- **A Scalable, Annotation-Free Pipeline for Automated CT Pelvimetry: A Validation Study with Landmark Uncertainty Analysis and Clinical Correlation** — *Journal of Imaging Informatics in Medicine* 2026 [`doi`](https://doi.org/10.1007/s10278-026-02167-9)
 - Automated CT-based pelvimetry — *Int J Comput Assist Radiol Surg.* 2026 [`doi`](https://doi.org/10.1007/s11548-026-03606-2)
 - Machine learning–based learning curve analysis — *J Robotic Surg.* 2026 [`doi`](https://doi.org/10.1007/s11701-025-03088-5)
 - Video-based RA-CUSUM proficiency assessment — *Int J Colorectal Dis.* 2026 [`doi`](https://doi.org/10.1007/s00384-025-05078-3)
