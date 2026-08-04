@@ -1,4 +1,4 @@
-# Shih-Feng Huang 黃士峯
+# Shih-Feng (Fredric) Huang, MD · 黃士峯
 
 <p align="center">
   <strong>Surgical Data Scientist · Colorectal Surgeon</strong><br/>
@@ -22,34 +22,13 @@ I build evidence-backed surgical data systems — turning raw CT, intraoperative
 
 ---
 
-## ⚙️ Surgical Data Pipeline (Core System)
+## ⚙️ Evidence → Deployment
 
-```text
-            CT Imaging
-                │
-         Feature Extraction
-                │
-        Difficulty Modeling
-                │
-   Intraoperative Video / Workflow Analysis
-                │
-   Postoperative Outcomes / PRO / Prediction
-```
-
-### 🧠 Preoperative
-
-- Automated CT-based pelvimetry
-- Surgical difficulty modeling (FREDRIC framework)
-
-### 🎥 Intraoperative
-
-- Learning curve modeling (RA-CUSUM)
-- Video-based workflow analysis
-
-### 📊 Postoperative
-
-- Outcome prediction (ML / survival analysis)
-- Digital follow-up & PRO systems
+| Clinical problem | Peer-reviewed evidence | Reproducible code | Deployed artifact |
+| --- | --- | --- | --- |
+| Mid-pelvic workspace from CT | [Auto-ISD · *IJCARS* 2026](https://doi.org/10.1007/s11548-026-03606-2) | [`auto-isd-pelvimetry`](https://github.com/odafeng/auto-isd-pelvimetry) | [Interactive demo](https://auto-isd-demo.vercel.app) · [`ctpelvimetry`](https://pypi.org/project/ctpelvimetry/) |
+| Robotic surgery learning curves | [*J Robotic Surg.* 2026](https://doi.org/10.1007/s11701-025-03088-5) | [`rissa-ML-learning-curve`](https://github.com/odafeng/rissa-ML-learning-curve) | Reusable analysis workflow |
+| Postoperative symptom monitoring | IRB-approved study | [`hemorrhoids-postop`](https://github.com/odafeng/hemorrhoids-postop) | [Live clinical-research PWA](https://prototype-zeta-black.vercel.app) |
 
 ---
 
