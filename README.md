@@ -11,6 +11,7 @@
   <a href="https://shihfenghuang.com"><img alt="Clinical website" src="https://img.shields.io/badge/Clinical-shihfenghuang.com-0F766E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://blog.shihfenghuang.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.shihfenghuang.com-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
   <a href="https://pypi.org/project/ctpelvimetry/"><img alt="ctpelvimetry on PyPI" src="https://img.shields.io/pypi/v/ctpelvimetry?style=flat-square&logo=pypi&logoColor=white&label=ctpelvimetry&color=3776AB" /></a>
+  <a href="https://www.youtube.com/@colonandcode"><img alt="YouTube Colon and Code" src="https://img.shields.io/badge/YouTube-@colonandcode-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
